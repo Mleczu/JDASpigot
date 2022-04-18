@@ -1,0 +1,4 @@
+name: JDASpigot
+main: com.github.mleczu.jdaspigot.BungeeLoader
+version: 5.0.0-alpha.9
+author: Mleczu
