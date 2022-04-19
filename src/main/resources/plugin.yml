@@ -1,5 +1,5 @@
 main: com.github.mleczu.jdaspigot.SpigotLoader
 name: JDASpigot
-version: 5.0.0-alpha.9
+version: 4.4.0
 description: Minecraft Discord link for Velocity
 author: Mleczu

@@ -1,9 +1,1 @@
-{
-  "id": "jdavelocity",
-  "name": "JDAVelocity",
-  "version": "5.0.0-alpha.9",
-  "description": "Minecraft Discord link for Velocity",
-  "authors": ["Mleczu"],
-  "dependencies": [],
-  "main": "com.github.mleczu.jdaspigot.VelocityLoader"
-}
+{"id":"jdavelocity","name":"JDAVelocity","version":"4.4.0","description":"Minecraft Discord link for Velocity","authors":["Mleczu"],"dependencies":[],"main":"com.github.mleczu.jdaspigot.VelocityLoader"}
